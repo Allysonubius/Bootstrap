@@ -7,18 +7,11 @@ body {
     font-family: sans-serif, serif, arial;
     font-size: 12px;
     color: black;
-}
-
-body {
     background-color: #ccc;
 }
 
 .container {
     padding: 10px;
-}
-
-.container-fluid {
-    background-color: white;
 }
 
 .table-hover tbody tr:hover {
@@ -31,13 +24,14 @@ button {
 }
 
 .rodape {
-    font-size: 25px;
+    font-size: 12px;
     font-family: Verdana, arial;
     font-weight: bold;
     background-color: black;
     color: white;
     text-align: center;
-    padding: 1px;
+    padding-bottom: 1px;
+    padding-top: 1px;
 }
 
 .texto {
@@ -46,4 +40,24 @@ button {
 
 .pequeno-button {
     margin: 1px;
+}
+
+.nav-ed {
+    margin: -80px 0 -150px 0;
+    padding: 40px;
+}
+
+a {
+    font-size: 20px;
+}
+
+.menu-bg {
+    background-color: #D79AFC;
+    border-bottom: 1px solid white;
+}
+
+.menu-text {
+    font-family: verdana;
+    font-weight: bold;
+    color: #9E04FC;
 }
