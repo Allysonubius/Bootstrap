@@ -13,6 +13,10 @@ body {
     background-color: #ccc;
 }
 
+.container {
+    padding: 10px;
+}
+
 .container-fluid {
     background-color: white;
 }
@@ -20,4 +24,26 @@ body {
 .table-hover tbody tr:hover {
     background-color: #333;
     color: #fff;
+}
+
+button {
+    margin: 15px;
+}
+
+.rodape {
+    font-size: 25px;
+    font-family: Verdana, arial;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+
+.texto {
+    padding-top: 20px;
+}
+
+.pequeno-button {
+    margin: 1px;
 }
