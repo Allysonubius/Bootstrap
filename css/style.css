@@ -56,8 +56,16 @@ a {
     border-bottom: 1px solid white;
 }
 
-.menu-text {
+.menu-logo {
     font-family: verdana;
     font-weight: bold;
     color: #9E04FC;
+}
+
+.menu-text {
+    font-family: verdana;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    list-style: none;
 }
